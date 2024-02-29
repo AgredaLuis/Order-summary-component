@@ -1,27 +1,44 @@
-# React + TypeScript + Vite
+# Frontend Mentor - QR code component solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Screenshot
 
-## Expanding the ESLint configuration
+![](./screenshot.png)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
+### Links
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+- Solution URL: [solution URL here](https://github.com/AgredaLuis/nft-preview-card)
+- Live Site URL: [live site URL here](https://agredaluis.github.io/nft-preview-card/)
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Mobile-first workflow
+- TypeScript - JavaScript with Syntax for Types.
+- [Vite](https://vitejs.dev/) - fast local development server
+- [React](https://reactjs.org/) - JS library
+- [Tailwind](https://tailwindcss.com//) - For styles
+
+
+
+### Continued development
+
+I'm going to keep doing these challenges until I have the confidence and practice to make good designs.
+
+### Useful resources
+
+- [Demystifying the Folder Structure of a React App](https://medium.com/swlh/demystifying-the-folder-structure-of-a-react-app-c60b29d90836) - This helped me to have a more understandable structure for when projects get long.
+
+
+## Author
+
+- Website - [Luis Agreda](https://luisagredadev.vercel.app/)
+- Frontend Mentor - [@AgredaLuis](https://www.frontendmentor.io/profile/@AgredaLuis)
+- Linkedin - [Luis Agreda](https://www.linkedin.com/in/luisagreda/)
