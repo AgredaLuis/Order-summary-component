@@ -1,0 +1,12 @@
+.line-text{
+  line-height: 1.7rem;
+  font-size: 1rem;
+}
+
+.card-shadow {
+  box-shadow: 0 40px 30px -10px rgba(23, 65, 97, 0.1);
+}
+
+.card-btn-shadow{
+  box-shadow: 0 20px 20px 0px rgba(39, 10, 170, 0.17);
+}
